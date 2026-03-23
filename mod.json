@@ -1,7 +1,0 @@
-{
-  "name": "Decorategpt",
-  "description": "Auto-decorate Geode mod with custom objects",
-  "version": "1.0.0",
-  "author": "T6",
-  "main": "main.cpp"
-}
