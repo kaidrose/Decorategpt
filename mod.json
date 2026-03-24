@@ -1,0 +1,8 @@
+{
+  "id": "kaiden.decorgpt",
+  "name": "DecorGPT",
+  "developer": "Kaiden",
+  "version": "1.1.0",
+  "description": "Advanced auto decorator mod",
+  "geode": ">=5.0.0"
+}
